@@ -1,0 +1,11 @@
+.header-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header_text{
+    letter-spacing: 1rem;
+    font-size: 3rem;
+}
