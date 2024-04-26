@@ -2,6 +2,7 @@ import suj from '../../assets/suj.jpeg'
 
 import './Header.css';
 
+
 function Header(){
     return (
     <div className="header-wrapper"> 
